@@ -1,7 +1,5 @@
 # Customer Churn Prediction using TensorFlow
 
-![TensorFlow Logo](path_to_tensorflow_logo.png)  <!-- Add the path to TensorFlow's logo or any other logo you want to show -->
-
 Predict and visualize customer churn using deep learning with TensorFlow, Keras, and other Python libraries.
 
 ## Table of Contents
